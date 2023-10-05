@@ -46,6 +46,6 @@ install -D -m 644 %{SOURCE2} .cargo/config
 %doc README.md
 %{_bindir}/warp
 %{_datadir}/applications/*.desktop
-%{_datadir}/help/C/%{name}/
+%{_datadir}/help/%/%{name}/
 %{_datadir}/icons/hicolor/*/apps/*
 %{_datadir}/metainfo/*.metainfo.xml
