@@ -5,7 +5,7 @@ Summary:        App to securely send files via the internet or local network
 License:        GPL-3.0-or-later
 URL:            https://apps.gnome.org/en-GB/app/app.drey.Warp/
 Source0:        https://gitlab.gnome.org/World/warp/-/archive/v%{version}/warp-v%{version}.tar.bz2
-Source1:        vendor.tar.zst
+Source1:        vendor.tar.xz
 Source2:        cargo_config
 
 BuildRequires:  cargo
