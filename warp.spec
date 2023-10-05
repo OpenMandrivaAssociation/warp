@@ -29,7 +29,7 @@ which includes local network transfer if possible.
 %lang_package
 
 %prep
-%autosetup -a1
+%autosetup -n %{name}-v%{version} -a1
 install -D -m 644 %{SOURCE2} .cargo/config
 
 %build
