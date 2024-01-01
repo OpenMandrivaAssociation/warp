@@ -9,6 +9,7 @@ Source1:        vendor.tar.xz
 Source2:        cargo_config
 
 BuildRequires:  cargo
+BuildRequires:  gettext
 BuildRequires:  rust
 BuildRequires:  itstool
 BuildRequires:  meson
