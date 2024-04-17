@@ -1,5 +1,5 @@
 Name:           warp
-Version:        0.6.2
+Version:        0.7.0
 Release:        1
 Summary:        App to securely send files via the internet or local network
 License:        GPL-3.0-or-later
